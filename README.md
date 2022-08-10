@@ -4,21 +4,21 @@ Reddit clone built using Golang(Gin framework) and GORM, ORM library. The fronte
 - https://github.com/cryptoguy55a/shininggowl-reddit-clone-frontend
 # Functionalities
 - Authentication with JWT and silent token refreshing \
-- Login and new user registration, email verification for account activation and password resetting \
-- Create post, edit and update post, delete post; add product info as a post (admin only); Uploading attachments with posts \
-- add tags to a post \
-- Notifications at each operation \
-- Comments; upvotes and downvotes \
-- Create community, edit and update community, delete community, join/quit a community Functionalities – cont. \
-- Roles: user, moderator for each community, administrator \
-- User to manage posts, their profile and avatar \
-- moderator to manage users in a community (freeze/unfreeze user) \
-- Admin to manage all users (invite new user) \
-- Fetch content of link when there’s link in the content (like when you sharea link in twitter) \
-- Search a post \
-- Payment and checkout \
-- Real time Chat (build using websocket) \
-- Multi-language support \
+- Login and new user registration, email verification for account activation and password resetting 
+- Create post, edit and update post, delete post; add product info as a post (admin only); Uploading attachments with posts 
+- add tags to a post 
+- Notifications at each operation 
+- Comments; upvotes and downvotes 
+- Create community, edit and update community, delete community, join/quit a community Functionalities – cont. 
+- Roles: user, moderator for each community, administrator 
+- User to manage posts, their profile and avatar 
+- moderator to manage users in a community (freeze/unfreeze user) 
+- Admin to manage all users (invite new user) 
+- Fetch content of link when there’s link in the content (like when you sharea link in twitter) 
+- Search a post 
+- Payment and checkout 
+- Real time Chat (build using websocket) 
+- Multi-language support 
 - Save posts 
 # Getting Started with Create React App
 
